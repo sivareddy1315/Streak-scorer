@@ -70,24 +70,50 @@ The service is configured via `config.json`. Key configuration options:
 
 ```json
 {
+  "service_version": "1.0.0",
+  "model_versions": {
+    "help_post_classifier": "1.0.0"
+  },
   "activity_types": {
-    "login": { "enabled": true },
+    "login": {
+      "enabled": true,
+      "streak_definition": {
+        "unit": "day",
+        "value": 1
+      }
+    },
     "quiz": {
       "enabled": true,
-      "min_score": 70
+      "streak_definition": {
+        "unit": "day",
+        "value": 1
+      },
+      "validators": {
+        "min_score": 5,
+        "max_time_taken_sec": 600
+      }
     },
     "help_post": {
       "enabled": true,
-      "min_word_count": 50,
-      "ai_validation_enabled": true
+      "streak_definition": {
+        "unit": "day",
+        "value": 1
+      },
+      "validators": {
+        "ai_validation_enabled": true,
+        "min_word_count": 10
+      }
     }
   },
   "streak_tiers": [
-    { "name": "bronze", "min_streak": 3 },
-    { "name": "silver", "min_streak": 7 },
-    { "name": "gold", "min_streak": 14 }
+    {"name": "none", "min_streak": 0},
+    {"name": "bronze", "min_streak": 3},
+    {"name": "silver", "min_streak": 7},
+    {"name": "gold", "min_streak": 14}
   ],
-  "grace_period_hours": 24
+  "daily_reset_hour_utc": 0,
+  "next_deadline_buffer_seconds": -1,
+  "grace_period_hours": 2
 }
 ```
 
