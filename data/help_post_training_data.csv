@@ -1,0 +1,668 @@
+content,word_count,char_count,contains_code,question_count,sentence_count,label
+"Comprehensive guide to orchestration: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,148,False,0,2,1
+"Looking for a post about mobile app security: explain common threats, provide mitigation strategies, and discuss best practices.",18,128,False,0,1,1
+"Code gives stack overflow in JavaScript, urgent help needed!",9,60,False,0,1,0
+"Understanding data warehousing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+Help me with my DOM manipulation homework due tomorrow,9,54,False,0,1,0
+Best practices for Dynamic Programming: Solve complex problems by breaking into simpler subproblems. Key steps: 1) Define subproblem 2) Create recurrence relation 3) Solve bottom-up or top-down. Example implementations and common pitfalls included.,33,248,False,0,3,1
+Help with React syntax error???,5,31,False,3,2,0
+"The examples for binary conversion are wrong, and the discussion on importance is just your opinion about computer science.",19,123,False,0,1,0
+"Best practices for Integration Testing: Test component interaction, use realistic data, consider setup/teardown overhead. Example implementations and common pitfalls included.",20,175,False,0,2,1
+"Detailed guide on Unit Testing: Test structure: Arrange-Act-Assert. Mock external dependencies, test edge cases, maintain test independence.",17,140,False,0,2,1
+"Code gives segmentation fault in Java, urgent help needed!",9,58,False,0,1,0
+"Comprehensive guide to red-black trees: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+"Code gives segmentation fault in SQL, urgent help needed!",9,57,False,0,1,0
+Binary work? Provide decimal importance. Discuss CS examples.,8,61,False,1,3,0
+Need Flutter code asap!,4,23,False,0,1,0
+"Comprehensive guide to web accessibility: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+"Code gives null pointer in SQL, urgent help needed!",9,51,False,0,1,0
+"Understanding authorization from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,172,False,0,2,1
+Help me with my aspect-oriented programming homework due tomorrow,9,65,False,0,1,0
+"Understanding database design from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+"Understanding trees from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,164,False,0,2,1
+Help me with my regression testing homework due tomorrow,9,56,False,0,1,0
+"Can you explain the difference between supervised and unsupervised learning, with examples and a discussion of use cases?",18,121,False,1,1,1
+"Understanding CSS from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,162,False,0,2,1
+"Understanding edge computing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,173,False,0,2,1
+"Understanding responsive design from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+Help me with my tries homework due tomorrow,8,43,False,0,1,0
+Need Android development code asap!,5,35,False,0,1,0
+Help with C++ null pointer???,5,29,False,3,2,0
+"Getting syntax error in Python, fix it",7,38,False,0,1,0
+Help me with my caching strategies homework due tomorrow,9,56,False,0,1,0
+"Getting stack overflow in React, fix it",7,39,False,0,1,0
+Help me with my data modeling homework due tomorrow,9,51,False,0,1,0
+Help me with my arrays homework due tomorrow,8,44,False,0,1,0
+Help me with my blockchain homework due tomorrow,8,48,False,0,1,0
+Help me with my IoT homework due tomorrow,8,41,False,0,1,0
+Help me with my event-driven programming homework due tomorrow,9,62,False,0,1,0
+Help me with my Android development homework due tomorrow,9,57,False,0,1,0
+"Understanding design patterns from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+"Please explain the concept of containerization, provide Dockerfile examples, and discuss deployment benefits.",13,109,False,0,1,1
+"Comprehensive guide to continuous integration: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,157,False,0,2,1
+"Understanding React Native from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+"Comprehensive guide to stacks: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,141,False,0,2,1
+"Looking for a post on recursion: what it is, example code, and why the base case is important.",18,94,False,0,1,1
+"Code gives runtime error in C++, urgent help needed!",9,52,False,0,1,0
+Help with React runtime error???,5,32,False,3,2,0
+Need system architecture code asap!,5,35,False,0,1,0
+"Understanding Unit Testing - Test structure: Arrange-Act-Assert. Mock external dependencies, test edge cases, maintain test independence. Here's a step-by-step explanation with practical examples.",23,196,False,0,3,1
+Help with Python compilation error???,5,37,False,3,2,0
+"Comprehensive guide to data warehousing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+Help me with my dynamic programming homework due tomorrow,9,57,False,0,1,0
+"Understanding NoSQL from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,164,False,0,2,1
+"Please outline the process of code refactoring, provide before/after examples, and discuss its benefits.",14,104,False,0,1,1
+"I want a post that covers responsive web design, provides CSS examples, and discusses mobile-first strategies.",16,110,False,0,1,1
+Help with C++ runtime error???,5,30,False,3,2,0
+Help with Python stack overflow???,5,34,False,3,2,0
+"Comprehensive guide to authentication: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,149,False,0,2,1
+"Detailed guide on SQL Optimization: Index choices impact query performance. Consider: column selectivity, query patterns, update frequency. Example: composite index for WHERE clauses.",23,183,False,0,3,1
+Need NoSQL code asap!,4,21,False,0,1,0
+Help me with my OOP homework due tomorrow,8,41,False,0,1,0
+"Understanding transaction management from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,181,False,0,2,1
+Need parallel programming code asap!,5,36,False,0,1,0
+"Comprehensive guide to caching strategies: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+"Comprehensive guide to app security: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+Help me with my continuous deployment homework due tomorrow,9,59,False,0,1,0
+"Understanding REST API - REST principles: stateless, cacheable, uniform interface. Status codes: 200 success, 201 created, 400 bad request, 401 unauthorized, 404 not found. Here's a step-by-step explanation with practical examples.",31,231,False,0,3,1
+Need test-driven development code asap!,5,39,False,0,1,0
+"Understanding version control from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+"Getting segmentation fault in C++, fix it",7,41,False,0,1,0
+Need stacks code asap!,4,22,False,0,1,0
+"Comprehensive guide to React Native: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+Help with React segmentation fault???,5,37,False,3,2,0
+Need trees code asap!,4,21,False,0,1,0
+"Understanding performance testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,178,False,0,2,1
+Help me with my test coverage homework due tomorrow,9,51,False,0,1,0
+Need DevOps code asap!,4,22,False,0,1,0
+"Best practices for Binary Search Tree: Tree traversal methods: in-order gives sorted results, pre-order visits root first, post-order visits leaves first. Implementation tips: keep track of parent pointers, use recursion for elegant traversal code. Example implementations and common pitfalls included.",40,302,False,0,3,1
+Do my homework please,4,21,False,0,1,0
+Help me with my version control homework due tomorrow,9,53,False,0,1,0
+Help me with my red-black trees homework due tomorrow,9,53,False,0,1,0
+"Comprehensive guide to SOLID principles: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+"Understanding regression testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+"Understanding concurrent programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,181,False,0,2,1
+"Comprehensive guide to DOM manipulation: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+"Requesting a post on message queues: what they are, example implementations, and a discussion of use cases.",17,107,False,0,1,1
+"Understanding service discovery from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Understanding AVL trees from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,168,False,0,2,1
+Help me with my procedural programming homework due tomorrow,9,60,False,0,1,0
+"Understanding greedy algorithms from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Comprehensive guide to mock testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+"Understanding DOM manipulation from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+Need automated testing code asap!,5,33,False,0,1,0
+Help me with my machine learning homework due tomorrow,9,54,False,0,1,0
+"A clear explanation of APIs, with a focus on valid examples, is what I need.",15,76,False,0,1,1
+"Understanding containerization from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,175,False,0,2,1
+"Getting segmentation fault in JavaScript, fix it",7,48,False,0,1,0
+"Understanding event-driven programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,183,False,0,2,1
+"Getting segmentation fault in SQL, fix it",7,41,False,0,1,0
+Need indexing code asap!,4,24,False,0,1,0
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+"Understanding Android development from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,178,False,0,2,1
+Help me with my trees homework due tomorrow,8,43,False,0,1,0
+Help me with my agile methodology homework due tomorrow,9,55,False,0,1,0
+"Understanding cybersecurity from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,172,False,0,2,1
+Need service discovery code asap!,5,33,False,0,1,0
+Help with SQL runtime error???,5,30,False,3,2,0
+Help me with my system architecture homework due tomorrow,9,57,False,0,1,0
+Need responsive design code asap!,5,33,False,0,1,0
+Help me with my React Native homework due tomorrow,9,50,False,0,1,0
+"Comprehensive guide to normalization: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,148,False,0,2,1
+Need string matching code asap!,5,31,False,0,1,0
+"Understanding Hash Tables - Hash tables provide O(1) average case lookup. Important concepts: hash function quality, collision resolution (chaining vs open addressing), load factor impact on performance. Here's a step-by-step explanation with practical examples.",34,262,True,0,3,1
+"Understanding aspect-oriented programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,186,False,0,2,1
+"Understanding B-trees from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,166,False,0,2,1
+Need React Native code asap!,5,28,False,0,1,0
+"Understanding backtracking from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,171,False,0,2,1
+"Understanding linked lists from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+"Understanding behavior-driven development from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,186,False,0,2,1
+"Code gives runtime error in SQL, urgent help needed!",9,52,False,0,1,0
+"Understanding blockchain from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,169,False,0,2,1
+Help me with my web security homework due tomorrow,9,50,False,0,1,0
+Help me with my artificial intelligence homework due tomorrow,9,61,False,0,1,0
+"Could you write about hash tables, including how they work, example use cases, and a discussion of collision resolution?",19,120,False,1,1,1
+"Understanding cloud computing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+Need mathematical algorithms code asap!,5,39,False,0,1,0
+Need authorization code asap!,4,29,False,0,1,0
+"Understanding authentication from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,173,False,0,2,1
+Help me with my progressive web apps homework due tomorrow,10,58,False,0,1,0
+Need recursion code asap!,4,25,False,0,1,0
+"Please create a post that explains APIs, gives clear examples, and focuses on what makes an explanation valid.",18,110,False,0,1,1
+"Comprehensive guide to arrays: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,141,False,0,2,1
+Help with React null pointer???,5,31,False,3,2,0
+"Comprehensive guide to dynamic programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,154,False,0,2,1
+i wrote code but its not working can someone help me fix it asap need it today,17,78,False,0,1,0
+"Comprehensive guide to quantum computing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+Help me with my concurrent programming homework due tomorrow,9,60,False,0,1,0
+"Discussing the importance of binary numbers in computer science, with examples of conversion and a clear explanation of how they work.",21,134,False,0,1,1
+"Best practices for Authentication: JWT structure: header.payload.signature. Benefits: stateless, scalable. Security considerations: expire tokens, secure storage. Example implementations and common pitfalls included.",22,216,False,0,4,1
+Help with Java null pointer???,5,30,False,3,2,0
+"Comprehensive guide to backtracking: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,147,False,0,2,1
+"Comprehensive guide to binary trees: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+Need regression testing code asap!,5,34,False,0,1,0
+"Understanding stress testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,173,False,0,2,1
+Need authentication code asap!,4,30,False,0,1,0
+Help me with my iteration homework due tomorrow,8,47,False,0,1,0
+"Code gives null pointer in Python, urgent help needed!",9,54,False,0,1,0
+"Understanding system architecture from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,178,False,0,2,1
+"Comprehensive guide to artificial intelligence: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,158,False,0,2,1
+Help me with my recursion homework due tomorrow,8,47,False,0,1,0
+"Comprehensive guide to load balancing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,149,False,0,2,1
+"Code gives null pointer in React, urgent help needed!",9,53,False,0,1,0
+Help with Python null pointer???,5,32,False,3,2,0
+Help me with my offline storage homework due tomorrow,9,53,False,0,1,0
+"Understanding mathematical algorithms from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,182,False,0,2,1
+"Best practices for ACID Properties: Atomicity: all or nothing, Consistency: valid state, Isolation: concurrent transactions, Durability: permanent changes. Example implementations and common pitfalls included.",24,209,False,0,2,1
+"Looking for a post about algorithm complexity: explain Big O, give examples, and discuss why it matters.",17,104,False,0,1,1
+"Code gives syntax error in C++, urgent help needed!",9,51,False,0,1,0
+"Comprehensive guide to behavior-driven development: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,162,False,0,2,1
+"I need a clear explanation of binary numbers, including how to convert to decimal and why they're important in CS.",20,114,False,0,1,1
+Need stress testing code asap!,5,30,False,0,1,0
+"Understanding app security from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+Help me with my functional programming homework due tomorrow,9,60,True,0,1,0
+"Understanding mobile performance from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+Help me with my cybersecurity homework due tomorrow,8,51,False,0,1,0
+Help with Python segmentation fault???,5,38,False,3,2,0
+"Comprehensive guide to graphs: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,141,False,0,2,1
+"Comprehensive guide to indexing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,143,False,0,2,1
+"Getting stack overflow in SQL, fix it",7,37,False,0,1,0
+"Explain binary numbers, show how to convert to decimal, and discuss why binary is important in CS.",17,98,False,0,1,1
+"Comprehensive guide to iteration: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,144,False,0,2,1
+Help me with my GraphQL homework due tomorrow,8,45,False,0,1,0
+"Could someone explain the concept of microservices, provide architecture diagrams, and discuss pros and cons?",15,109,False,1,1,1
+"Understanding graphs from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,165,False,0,2,1
+Need backtracking code asap!,4,28,False,0,1,0
+"Understanding Sorting Algorithms - QuickSort average case is O(n log n), works by selecting pivot and partitioning. Implementation considerations: choosing pivot strategy, handling duplicates. Here's a step-by-step explanation with practical examples.",31,251,False,0,3,1
+Help me with my REST APIs homework due tomorrow,9,47,False,0,1,0
+Help me with my stacks homework due tomorrow,8,44,False,0,1,0
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+Help me with my graph algorithms homework due tomorrow,9,54,False,0,1,0
+API valid explanation clarity focusing not found.,7,49,False,0,1,0
+"Comprehensive guide to parallel programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,155,False,0,2,1
+Help with JavaScript compilation error???,5,41,False,3,2,0
+Why doesn't this work?,4,22,False,1,1,0
+"A valid explanation about APIs: focusing on clarity, with multiple examples and a discussion of best practices.",17,111,False,0,1,1
+"Understanding GraphQL from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,166,False,0,2,1
+"Best practices for Hash Tables: Hash tables provide O(1) average case lookup. Important concepts: hash function quality, collision resolution (chaining vs open addressing), load factor impact on performance. Example implementations and common pitfalls included.",34,261,True,0,3,1
+"Getting runtime error in SQL, fix it",7,36,False,0,1,0
+Need design patterns code asap!,5,31,False,0,1,0
+Help me with my graphs homework due tomorrow,8,44,False,0,1,0
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+"Understanding ACID Properties - Atomicity: all or nothing, Consistency: valid state, Isolation: concurrent transactions, Durability: permanent changes. Here's a step-by-step explanation with practical examples.",24,210,False,0,2,1
+"Comprehensive guide to responsive design: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+Need containerization code asap!,4,32,False,0,1,0
+"Understanding microservices from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,172,False,0,2,1
+"Comprehensive guide to service discovery: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+Help me with my queues homework due tomorrow,8,44,False,0,1,0
+Need AVL trees code asap!,5,25,False,0,1,0
+"Detailed guide on Authentication: JWT structure: header.payload.signature. Benefits: stateless, scalable. Security considerations: expire tokens, secure storage.",16,161,False,0,3,1
+"Understanding SOLID principles from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+"Comprehensive guide to iOS development: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+"Getting syntax error in JavaScript, fix it",7,42,False,0,1,0
+"Requesting a post on database indexing: what it is, example queries, and a discussion of performance impact.",17,108,False,0,1,1
+Need iteration code asap!,4,25,False,0,1,0
+Help with Java runtime error???,5,31,False,3,2,0
+"Please create a guide to version control with Git, including basic commands and a discussion of branching strategies.",18,117,False,0,1,1
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+"Understanding query optimization from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+"Comprehensive guide to test-driven development: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,158,False,0,2,1
+"Comprehensive guide to performance testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,154,False,0,2,1
+"Comprehensive guide to recursion: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,144,False,0,2,1
+Help with SQL syntax error???,5,29,False,3,2,0
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+Need push notifications code asap!,5,34,False,0,1,0
+"A guide to Python dictionaries is requested: how they work (hash maps), examples of common methods, and a discussion of their O(1) average lookup.",24,146,False,0,1,1
+Need binary trees code asap!,5,28,False,0,1,0
+"Code gives stack overflow in Python, urgent help needed!",9,56,False,0,1,0
+Help me with my push notifications homework due tomorrow,9,56,False,0,1,0
+"Understanding iteration from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,168,False,0,2,1
+Help me with my mobile UI/UX homework due tomorrow,9,50,False,0,1,0
+"Please outline binary numbers, provide conversion examples, and discuss their significance in computer science.",14,111,False,0,1,1
+"Here is a clear and valid explanation of API design, with illustrative examples and a focus on clarity.",18,103,False,0,1,1
+Help me with my containerization homework due tomorrow,8,54,False,0,1,0
+"Code gives compilation error in Python, urgent help needed!",9,59,False,0,1,0
+A good API explanation should focus on clarity and include valid examples.,12,74,False,0,1,1
+Need session management code asap!,5,34,False,0,1,0
+Help me with my edge computing homework due tomorrow,9,52,False,0,1,0
+"Understanding binary trees from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+"Getting runtime error in Python, fix it",7,39,False,0,1,0
+"Comprehensive guide to regression testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+"Comprehensive guide to transaction management: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,157,False,0,2,1
+"Detailed guide on REST API: REST principles: stateless, cacheable, uniform interface. Status codes: 200 success, 201 created, 400 bad request, 401 unauthorized, 404 not found.",25,175,False,0,2,1
+"Comprehensive guide to machine learning: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+Help me with my continuous integration homework due tomorrow,9,60,False,0,1,0
+"Comprehensive guide to concurrent programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,157,False,0,2,1
+"Code gives compilation error in SQL, urgent help needed!",9,56,False,0,1,0
+"Getting null pointer in C++, fix it",7,35,False,0,1,0
+"Code gives syntax error in React, urgent help needed!",9,53,False,0,1,0
+Need arrays code asap!,4,22,False,0,1,0
+Not a valid explanation. No examples. No clarity on APIs.,10,57,False,0,3,0
+"Getting null pointer in Java, fix it",7,36,False,0,1,0
+"Getting compilation error in Java, fix it",7,41,False,0,1,0
+"Comprehensive guide to string matching: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+Help me with my greedy algorithms homework due tomorrow,9,55,False,0,1,0
+"Getting null pointer in JavaScript, fix it",7,42,False,0,1,0
+"I need a post that explains cloud computing, gives real-world examples, and discusses its advantages and challenges.",17,116,False,0,1,1
+Help me with my indexing homework due tomorrow,8,46,False,0,1,0
+"Understanding SQL from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,162,False,0,2,1
+Need database design code asap!,5,31,False,0,1,0
+"Comprehensive guide to continuous deployment: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,156,False,0,2,1
+"Understanding divide and conquer from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",21,177,False,0,2,1
+Help me with my app security homework due tomorrow,9,50,False,0,1,0
+"Comprehensive guide to database security: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+Need caching strategies code asap!,5,34,False,0,1,0
+"Getting stack overflow in Python, fix it",7,40,False,0,1,0
+"Understanding push notifications from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+"Understanding database administration from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,182,False,0,2,1
+"Code gives syntax error in JavaScript, urgent help needed!",9,58,False,0,1,0
+"A valid, clear, and helpful explanation of APIs, with examples and a focus on clarity and best practices.",18,105,False,0,1,1
+"Code gives stack overflow in C++, urgent help needed!",9,53,False,0,1,0
+Help me with my behavior-driven development homework due tomorrow,9,65,False,0,1,0
+Help with React stack overflow???,5,33,False,3,2,0
+"Understanding recursion from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,168,False,0,2,1
+Help me with my Flutter homework due tomorrow,8,45,False,0,1,0
+"Comprehensive guide to sorting: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,142,False,0,2,1
+"API explanation not valid. No clarity, no examples, no discussion.",10,66,False,0,2,0
+"Getting syntax error in Java, fix it",7,36,False,0,1,0
+"Could someone explain the difference between stacks and queues, provide usage examples for each, and discuss their LIFO/FIFO properties?",19,136,False,1,1,1
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+"Just solve this for me, urgent!",6,31,False,0,1,0
+"Getting segmentation fault in Java, fix it",7,42,False,0,1,0
+"Code gives stack overflow in SQL, urgent help needed!",9,53,False,0,1,0
+Need IoT code asap!,4,19,False,0,1,0
+"Understanding searching from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,168,False,0,2,1
+Help me with my web accessibility homework due tomorrow,9,55,False,0,1,0
+"Understanding graph algorithms from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+Need serverless computing code asap!,5,36,False,0,1,0
+"Understanding sorting from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,166,False,0,2,1
+"Comprehensive guide to queues: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,141,False,0,2,1
+"Looking for a post that explains RESTful API principles, provides sample endpoints, and discusses statelessness.",15,112,False,0,1,1
+"Comprehensive guide to authorization: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,148,False,0,2,1
+"Requesting a post that explains test-driven development, shows a simple test/code cycle, and discusses its benefits.",16,116,False,0,1,1
+Need quantum computing code asap!,5,33,False,0,1,0
+"Can you write a post about binary numbers, with conversion examples and a discussion of their importance?",17,105,False,1,1,1
+Need data modeling code asap!,5,29,False,0,1,0
+"Understanding OOP from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,162,False,0,2,1
+"Comprehensive guide to containerization: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,151,False,0,2,1
+"Binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science. (But this is not helpful)",25,163,False,0,2,0
+"Understanding data modeling from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,172,False,0,2,1
+Need JavaScript code asap!,4,26,False,0,1,0
+"Comprehensive guide to database design: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+"Best practices for REST API: REST principles: stateless, cacheable, uniform interface. Status codes: 200 success, 201 created, 400 bad request, 401 unauthorized, 404 not found. Example implementations and common pitfalls included.",31,230,False,0,3,1
+Help me with my iOS development homework due tomorrow,9,53,False,0,1,0
+"Please create a guide to agile methodology, including sprint planning and a discussion of team roles.",16,101,False,0,1,1
+Help me with my test-driven development homework due tomorrow,9,61,False,0,1,0
+Help me with my binary trees homework due tomorrow,9,50,False,0,1,0
+"Detailed guide on Sorting Algorithms: QuickSort average case is O(n log n), works by selecting pivot and partitioning. Implementation considerations: choosing pivot strategy, handling duplicates.",25,195,False,0,2,1
+"Comprehensive guide to searching: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,144,False,0,2,1
+"Comprehensive guide to version control: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+"Getting runtime error in React, fix it",7,38,False,0,1,0
+"Understanding HTML from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,163,False,0,2,1
+"Understanding continuous integration from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,181,False,0,2,1
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+Need HTML code asap!,4,20,False,0,1,0
+Need agile methodology code asap!,5,33,False,0,1,0
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+Help with C++ segmentation fault???,5,35,False,3,2,0
+Help with SQL null pointer???,5,29,False,3,2,0
+"A helpful post would explain binary numbers, give conversion examples, and discuss their computer science relevance.",16,116,False,0,1,1
+Help me with my hash tables homework due tomorrow,9,49,False,0,1,0
+"Understanding Authentication - JWT structure: header.payload.signature. Benefits: stateless, scalable. Security considerations: expire tokens, secure storage. Here's a step-by-step explanation with practical examples.",22,217,False,0,4,1
+Help me with my microservices homework due tomorrow,8,51,False,0,1,0
+Need query optimization code asap!,5,34,False,0,1,0
+"Comprehensive guide to code refactoring: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+Need greedy algorithms code asap!,5,33,False,0,1,0
+"Understanding parallel programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,179,False,0,2,1
+"Comprehensive guide to bit manipulation: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+"Understanding SQL Optimization - Index choices impact query performance. Consider: column selectivity, query patterns, update frequency. Example: composite index for WHERE clauses. Here's a step-by-step explanation with practical examples.",29,239,False,0,4,1
+Help me with my backtracking homework due tomorrow,8,50,False,0,1,0
+"Getting null pointer in SQL, fix it",7,35,False,0,1,0
+"Getting stack overflow in JavaScript, fix it",7,44,False,0,1,0
+Help me with my database administration homework due tomorrow,9,61,False,0,1,0
+"Getting compilation error in React, fix it",7,42,False,0,1,0
+Help me with my transaction management homework due tomorrow,9,60,False,0,1,0
+"Understanding DevOps from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,165,False,0,2,1
+"Getting segmentation fault in Python, fix it",7,44,False,0,1,0
+Need progressive web apps code asap!,6,36,False,0,1,0
+Need B-trees code asap!,4,23,False,0,1,0
+Help with SQL compilation error???,5,34,False,3,2,0
+"Comprehensive guide to NoSQL: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,140,False,0,2,1
+Function returns wrong output,4,29,False,0,1,0
+"Getting syntax error in React, fix it",7,37,False,0,1,0
+"Understanding machine learning from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+"Comprehensive guide to cloud computing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+Need security testing code asap!,5,32,False,0,1,0
+"Comprehensive guide to AVL trees: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,144,False,0,2,1
+Need SOLID principles code asap!,5,32,False,0,1,0
+Need app security code asap!,5,28,False,0,1,0
+"Comprehensive guide to security testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+"I want a post that covers object-oriented programming concepts, provides class and inheritance examples, and discusses encapsulation.",17,133,True,0,1,1
+Help with JavaScript segmentation fault???,5,42,False,3,2,0
+"Understanding queues from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,165,False,0,2,1
+"Understanding normalization from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,172,False,0,2,1
+"Best practices for Sorting Algorithms: QuickSort average case is O(n log n), works by selecting pivot and partitioning. Implementation considerations: choosing pivot strategy, handling duplicates. Example implementations and common pitfalls included.",31,250,False,0,3,1
+Help me with my NoSQL homework due tomorrow,8,43,False,0,1,0
+"Comprehensive guide to integration testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,154,False,0,2,1
+"Getting stack overflow in Java, fix it",7,38,False,0,1,0
+Need offline storage code asap!,5,31,False,0,1,0
+Help me with my HTML homework due tomorrow,8,42,False,0,1,0
+help pls,2,8,False,0,1,0
+Need end-to-end testing code asap!,5,34,False,0,1,0
+"Comprehensive guide to aspect-oriented programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,162,False,0,2,1
+"Code gives runtime error in Java, urgent help needed!",9,53,False,0,1,0
+Need integration testing code asap!,5,35,False,0,1,0
+"Comprehensive guide to agile methodology: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+"Comprehensive guide to test coverage: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,148,False,0,2,1
+"Getting stack overflow in C++, fix it",7,37,False,0,1,0
+"Focusing on clarity, please provide a valid explanation of API design with examples.",13,84,False,0,1,1
+"Comprehensive guide to SQL: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,138,False,0,2,1
+"Comprehensive guide to GraphQL: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,142,False,0,2,1
+Help me with my mathematical algorithms homework due tomorrow,9,61,False,0,1,0
+"Please explain the concept of load balancing, provide architecture diagrams, and discuss performance benefits.",14,110,False,0,1,1
+Help me with my JavaScript homework due tomorrow,8,48,False,0,1,0
+Help me with my sorting homework due tomorrow,8,45,False,0,1,0
+Help me with my divide and conquer homework due tomorrow,10,56,False,0,1,0
+"Getting compilation error in C++, fix it",7,40,False,0,1,0
+Need iOS development code asap!,5,31,False,0,1,0
+Help me with my searching homework due tomorrow,8,47,False,0,1,0
+Need SQL code asap!,4,19,False,0,1,0
+"Code gives null pointer in Java, urgent help needed!",9,52,False,0,1,0
+"Comprehensive guide to serverless computing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,155,False,0,2,1
+Need mock testing code asap!,5,28,False,0,1,0
+"Understanding IoT from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,162,False,0,2,1
+"Understanding Binary Search Tree - Tree traversal methods: in-order gives sorted results, pre-order visits root first, post-order visits leaves first. Implementation tips: keep track of parent pointers, use recursion for elegant traversal code. Here's a step-by-step explanation with practical examples.",40,303,False,0,3,1
+"Code gives compilation error in JavaScript, urgent help needed!",9,63,False,0,1,0
+"Understanding REST APIs from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,168,False,0,2,1
+This is a valid test explanation about APIs focusing on clarity and examples.,13,77,False,0,1,1
+"Understanding Flutter from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,166,False,0,2,1
+"I want a post that covers: how binary numbers work, example conversions to decimal, and why binary matters in computer science.",21,127,False,0,1,1
+Need blockchain code asap!,4,26,False,0,1,0
+Help me with my normalization homework due tomorrow,8,51,False,0,1,0
+Help with C++ compilation error???,5,34,False,3,2,0
+"Getting compilation error in JavaScript, fix it",7,47,False,0,1,0
+"Code gives segmentation fault in Python, urgent help needed!",9,60,False,0,1,0
+"Understanding big data from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,167,False,0,2,1
+"A comprehensive explanation of binary numbers, including how they work, examples of binary to decimal conversion, and a discussion of their importance in computer science.",25,171,False,0,1,1
+"Understanding bit manipulation from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+"Comprehensive guide to hash tables: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,146,False,0,2,1
+Need web accessibility code asap!,5,33,False,0,1,0
+Detailed guide on Dynamic Programming: Solve complex problems by breaking into simpler subproblems. Key steps: 1) Define subproblem 2) Create recurrence relation 3) Solve bottom-up or top-down.,27,193,False,0,2,1
+"Understanding mobile UI/UX from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+"Please provide a guide on binary numbers: how they function, conversion to decimal, and their importance in CS.",18,111,True,0,1,1
+"Code gives compilation error in React, urgent help needed!",9,58,False,0,1,0
+Help with C++ syntax error???,5,29,False,3,2,0
+"Comprehensive guide to edge computing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,149,False,0,2,1
+"I need a post that explains the difference between procedural and object-oriented programming, with examples and a discussion of pros and cons.",22,143,False,0,1,1
+"Understanding dynamic programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,178,False,0,2,1
+"Code gives segmentation fault in JavaScript, urgent help needed!",9,64,False,0,1,0
+"This is a detailed explanation of binary numbers, including conversion examples and a discussion of their significance in CS.",19,125,False,0,1,1
+Need linked lists code asap!,5,28,False,0,1,0
+"A good post would explain the difference between public, private, and protected access modifiers, provide examples, and discuss encapsulation.",19,142,False,0,1,1
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+Help me with my design patterns homework due tomorrow,9,53,False,0,1,0
+"Comprehensive guide to DevOps: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,141,False,0,2,1
+"Comprehensive guide to query optimization: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+"Understanding message queues from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,173,False,0,2,1
+"Understanding functional programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,181,True,0,2,1
+Need divide and conquer code asap!,6,34,False,0,1,0
+"Code gives runtime error in JavaScript, urgent help needed!",9,59,False,0,1,0
+"Understanding string matching from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+"Comprehensive guide to system architecture: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,154,False,0,2,1
+"Code gives compilation error in C++, urgent help needed!",9,56,False,0,1,0
+"Understanding iOS development from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+"Comprehensive guide to B-trees: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,142,False,0,2,1
+"Understanding mock testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+"Comprehensive guide to design patterns: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+Help me with my heaps homework due tomorrow,8,43,False,0,1,0
+"Can you explain the difference between authentication and authorization, with examples and a discussion of security best practices?",18,131,False,1,1,1
+Help me with my AVL trees homework due tomorrow,9,47,False,0,1,0
+Need heaps code asap!,4,21,False,0,1,0
+Help me with my query optimization homework due tomorrow,9,56,False,0,1,0
+"Comprehensive guide to data modeling: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,148,False,0,2,1
+"Getting runtime error in C++, fix it",7,36,False,0,1,0
+"I need a post that explains APIs clearly and provides valid, practical examples.",13,80,False,0,1,1
+"Getting compilation error in Python, fix it",7,43,False,0,1,0
+Help with Java segmentation fault???,5,36,False,3,2,0
+"Understanding offline storage from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+"Comprehensive guide to event-driven programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,159,False,0,2,1
+Help with Java compilation error???,5,35,False,3,2,0
+Help with Python runtime error???,5,33,False,3,2,0
+Help me with my cloud computing homework due tomorrow,9,53,False,0,1,0
+"Understanding serverless computing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,179,False,0,2,1
+"I'm looking for help content on binary numbers: specifically their function, examples of conversion to decimal, and a discussion on their computer science relevance.",24,165,True,0,1,1
+"Comprehensive guide to Flutter: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,142,False,0,2,1
+Help me with my CSS homework due tomorrow,8,41,False,0,1,0
+Help me with my SQL homework due tomorrow,8,41,False,0,1,0
+Need hash tables code asap!,5,27,False,0,1,0
+Help me with my orchestration homework due tomorrow,8,51,False,0,1,0
+Need normalization code asap!,4,29,False,0,1,0
+"Code gives syntax error in Java, urgent help needed!",9,52,False,0,1,0
+Help me with my mock testing homework due tomorrow,9,50,False,0,1,0
+Help me with my serverless computing homework due tomorrow,9,58,False,0,1,0
+Need unit testing code asap!,5,28,False,0,1,0
+"Comprehensive guide to functional programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,157,True,0,2,1
+"Code gives null pointer in C++, urgent help needed!",9,51,False,0,1,0
+"Code gives stack overflow in Java, urgent help needed!",9,54,False,0,1,0
+Need sorting code asap!,4,23,False,0,1,0
+"Could you write a post that explains APIs, focusing on clarity and including valid examples?",15,92,False,1,1,1
+Need mobile testing code asap!,5,30,False,0,1,0
+"Understanding continuous deployment from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,180,False,0,2,1
+"Please outline the process of setting up a CI/CD pipeline, provide tool examples, and discuss automation benefits.",17,114,False,0,1,1
+"Comprehensive guide to distributed systems: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,154,False,0,2,1
+"Please create a guide to test coverage, including how to measure it and a discussion of its importance.",18,103,False,0,1,1
+"A good help post for me would explain how binary numbers work, provide several binary/decimal conversion examples, and discuss why binary is fundamental to CS.",25,159,False,0,1,1
+Help with JavaScript runtime error???,5,37,False,3,2,0
+"A good post would explain the difference between regression and integration testing, provide examples, and discuss when to use each.",20,132,False,0,1,1
+"Detailed guide on Integration Testing: Test component interaction, use realistic data, consider setup/teardown overhead.",14,120,False,0,1,1
+"Discuss binary, decimal, examples, importance, computer science. Provide?",8,73,False,1,2,0
+I need a good binary explanation with examples. Not this computer science importance discussion.,14,96,False,0,2,0
+Need orchestration code asap!,4,29,False,0,1,0
+"Please explain the concept of normalization in databases, provide examples of normal forms, and discuss why normalization matters.",18,130,False,0,1,1
+Help with JavaScript syntax error???,5,36,False,3,2,0
+Need mobile UI/UX code asap!,5,28,False,0,1,0
+Help me with my message queues homework due tomorrow,9,52,False,0,1,0
+Help me with my database design homework due tomorrow,9,53,False,0,1,0
+Help with SQL segmentation fault???,5,35,False,3,2,0
+"This is not a valid explanation about APIs. No clarity, no examples.",12,68,False,0,2,0
+Help me with my service discovery homework due tomorrow,9,55,False,0,1,0
+"Please create a post that shows how binary numbers work, gives examples of binary to decimal conversion, and discusses binary's importance in computer science.",24,159,False,0,1,1
+"Understanding test coverage from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,172,False,0,2,1
+Help with SQL stack overflow???,5,31,False,3,2,0
+"Understanding heaps from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,164,False,0,2,1
+"Comprehensive guide to stress testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,149,False,0,2,1
+Need test coverage code asap!,5,29,False,0,1,0
+"Can you explain the difference between synchronous and asynchronous programming, with examples and a discussion of use cases?",18,125,False,1,1,1
+gives error when i run plz help,7,31,False,0,1,0
+Help me with my mobile performance homework due tomorrow,9,56,False,0,1,0
+"A good post would explain the difference between GET and POST HTTP methods, provide examples, and discuss when to use each.",21,123,False,0,1,1
+"Getting segmentation fault in React, fix it",7,43,False,0,1,0
+Need transaction management code asap!,5,38,False,0,1,0
+"Understanding red-black trees from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,174,False,0,2,1
+Give me the code now!,5,21,False,0,1,0
+"Understanding quantum computing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Understanding load balancing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,173,False,0,2,1
+Need performance testing code asap!,5,35,False,0,1,0
+Help me with my unit testing homework due tomorrow,9,50,False,0,1,0
+"Comprehensive guide to REST APIs: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,144,False,0,2,1
+"A post that provides a valid, clear explanation of APIs, with examples and a discussion of their use in software development.",21,125,False,0,1,1
+Need event-driven programming code asap!,5,40,False,0,1,0
+"Comprehensive guide to push notifications: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+Need big data code asap!,5,24,False,0,1,0
+Need GraphQL code asap!,4,23,False,0,1,0
+"Could you outline how binary numbers operate, include sample conversions to decimal, and explain their significance in computer science?",19,136,False,1,1,1
+Help me with my session management homework due tomorrow,9,56,False,0,1,0
+"Could you write about REST API error handling, including status codes and best practices?",14,89,False,1,1,1
+"Comprehensive guide to progressive web apps: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",21,155,False,0,2,1
+"Looking for a comprehensive post on binary numbers: how they work, conversion to decimal, and their importance in CS.",19,117,False,0,1,1
+"Could you write about blockchain basics, provide example use cases, and discuss security considerations?",14,104,False,1,1,1
+"Comprehensive guide to CSS: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,138,False,0,2,1
+"Understanding Integration Testing - Test component interaction, use realistic data, consider setup/teardown overhead. Here's a step-by-step explanation with practical examples.",20,176,False,0,2,1
+"Getting syntax error in SQL, fix it",7,35,False,0,1,0
+Help me with my security testing homework due tomorrow,9,54,False,0,1,0
+"Please make a post detailing SQL JOIN types (INNER, LEFT, FULL), with clear query examples and a discussion of their results.",21,125,False,0,1,1
+Help me with my bit manipulation homework due tomorrow,9,54,False,0,1,0
+"Understanding arrays from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,165,False,0,2,1
+"Comprehensive guide to automated testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+Need OOP code asap!,4,19,False,0,1,0
+"Understanding mobile testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,173,False,0,2,1
+Need red-black trees code asap!,5,31,False,0,1,0
+Help me with my load balancing homework due tomorrow,9,52,False,0,1,0
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+Need behavior-driven development code asap!,5,43,False,0,1,0
+"Understanding web security from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+"Understanding session management from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+"Understanding indexing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,167,False,0,2,1
+"Understanding security testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+"Understanding stacks from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,165,False,0,2,1
+Help with JavaScript null pointer???,5,36,False,3,2,0
+Need continuous deployment code asap!,5,37,False,0,1,0
+"Code gives segmentation fault in React, urgent help needed!",9,59,False,0,1,0
+"Comprehensive guide to mobile testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,149,False,0,2,1
+Need artificial intelligence code asap!,5,39,False,0,1,0
+"Getting runtime error in Java, fix it",7,37,False,0,1,0
+"Detailed guide on Binary Search Tree: Tree traversal methods: in-order gives sorted results, pre-order visits root first, post-order visits leaves first. Implementation tips: keep track of parent pointers, use recursion for elegant traversal code.",34,247,False,0,2,1
+"Code gives syntax error in Python, urgent help needed!",9,54,False,0,1,0
+"Comprehensive guide to HTML: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,139,False,0,2,1
+"Getting runtime error in JavaScript, fix it",7,43,False,0,1,0
+"Code gives runtime error in React, urgent help needed!",9,54,False,0,1,0
+Need graph algorithms code asap!,5,32,False,0,1,0
+Help me with my distributed systems homework due tomorrow,9,57,False,0,1,0
+Help me with my big data homework due tomorrow,9,46,False,0,1,0
+"Understanding hash tables from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,170,False,0,2,1
+"Code gives compilation error in Java, urgent help needed!",9,57,False,0,1,0
+"Comprehensive guide to mobile performance: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+"Understanding JavaScript from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,169,False,0,2,1
+"Best practices for Unit Testing: Test structure: Arrange-Act-Assert. Mock external dependencies, test edge cases, maintain test independence. Example implementations and common pitfalls included.",23,195,False,0,3,1
+Need REST APIs code asap!,5,25,False,0,1,0
+Help me with my end-to-end testing homework due tomorrow,9,56,False,0,1,0
+"Getting null pointer in React, fix it",7,37,False,0,1,0
+"Understanding database security from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Comprehensive guide to cybersecurity: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,148,False,0,2,1
+Need code refactoring code asap!,5,32,False,0,1,0
+Need edge computing code asap!,5,30,False,0,1,0
+Help me with my B-trees homework due tomorrow,8,45,False,0,1,0
+Getting an error in my code,6,27,False,0,1,0
+"Comprehensive guide to OOP: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,138,False,0,2,1
+Help me with my database security homework due tomorrow,9,55,False,0,1,0
+"Getting compilation error in SQL, fix it",7,40,False,0,1,0
+"Comprehensive guide to divide and conquer: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",21,153,False,0,2,1
+"Please outline the SOLID principles, give code examples for each, and discuss their impact on software design.",17,110,False,0,1,1
+Need version control code asap!,5,31,False,0,1,0
+"Getting syntax error in C++, fix it",7,35,False,0,1,0
+"Understanding agile methodology from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Understanding caching strategies from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+"Comprehensive guide to offline storage: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,150,False,0,2,1
+"Comprehensive guide to big data: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,143,False,0,2,1
+Need cybersecurity code asap!,4,29,False,0,1,0
+Help me with my mobile testing homework due tomorrow,9,52,False,0,1,0
+"Understanding procedural programming from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,181,False,0,2,1
+"Comprehensive guide to linked lists: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+"Best practices for SQL Optimization: Index choices impact query performance. Consider: column selectivity, query patterns, update frequency. Example: composite index for WHERE clauses. Example implementations and common pitfalls included.",29,238,False,0,4,1
+"Comprehensive guide to greedy algorithms: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,152,False,0,2,1
+"Comprehensive guide to Android development: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,154,False,0,2,1
+Help me with my parallel programming homework due tomorrow,9,58,False,0,1,0
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+Need aspect-oriented programming code asap!,5,43,False,0,1,0
+"Comprehensive guide to trees: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,140,False,0,2,1
+Need data warehousing code asap!,5,32,False,0,1,0
+"This post explains binary numbers, provides several conversion examples, and discusses why binary is crucial in computer science.",18,129,False,0,1,1
+idk what to do,4,14,False,0,1,0
+"Understanding artificial intelligence from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,182,False,0,2,1
+Help me with my quantum computing homework due tomorrow,9,55,False,0,1,0
+Need CSS code asap!,4,19,False,0,1,0
+"Detailed guide on Hash Tables: Hash tables provide O(1) average case lookup. Important concepts: hash function quality, collision resolution (chaining vs open addressing), load factor impact on performance.",28,206,True,0,2,1
+Help with C++ stack overflow???,5,31,False,3,2,0
+"Comprehensive guide to end-to-end testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+Help me with my authorization homework due tomorrow,8,51,False,0,1,0
+binary decimal examples importance computer science what this means discuss provide.,11,84,False,0,1,0
+Need searching code asap!,4,25,False,0,1,0
+"Please outline the process of deploying a web app, provide step-by-step instructions, and discuss common pitfalls.",16,114,False,0,1,1
+Need cloud computing code asap!,5,31,False,0,1,0
+Help me with my stress testing homework due tomorrow,9,52,False,0,1,0
+cant figure out whats wrong with my program,8,43,False,0,1,0
+"Code gives stack overflow in React, urgent help needed!",9,55,False,0,1,0
+"Code gives segmentation fault in C++, urgent help needed!",9,57,False,0,1,0
+Need queues code asap!,4,22,False,0,1,0
+"Comprehensive guide to mathematical algorithms: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,158,False,0,2,1
+Need functional programming code asap!,5,38,True,0,1,0
+Help with Java stack overflow???,5,32,False,3,2,0
+Need continuous integration code asap!,5,38,False,0,1,0
+Need machine learning code asap!,5,32,False,0,1,0
+"Comprehensive guide to graph algorithms: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,151,False,0,2,1
+"Comprehensive guide to session management: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,153,False,0,2,1
+"Code gives null pointer in JavaScript, urgent help needed!",9,58,False,0,1,0
+"Understanding distributed systems from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,178,False,0,2,1
+Help with JavaScript stack overflow???,5,38,False,3,2,0
+"Code gives runtime error in Python, urgent help needed!",9,55,False,0,1,0
+Help me with my performance testing homework due tomorrow,9,57,False,0,1,0
+Need message queues code asap!,5,30,False,0,1,0
+"Comprehensive guide to heaps: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,140,False,0,2,1
+Need graphs code asap!,4,22,False,0,1,0
+"Understanding code refactoring from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,175,False,0,2,1
+"Looking for a post about continuous integration: explain the workflow, provide tool examples, and discuss its importance.",17,121,False,0,1,1
+Help me with my string matching homework due tomorrow,9,53,False,0,1,0
+"Understanding integration testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,178,False,0,2,1
+Help with Python syntax error???,5,32,False,3,2,0
+"I want a post that covers API versioning, provides example strategies, and discusses backward compatibility.",15,108,False,0,1,1
+Help me with my automated testing homework due tomorrow,9,55,False,0,1,0
+Need database security code asap!,5,33,False,0,1,0
+Need DOM manipulation code asap!,5,32,False,0,1,0
+"Detailed guide on ACID Properties: Atomicity: all or nothing, Consistency: valid state, Isolation: concurrent transactions, Durability: permanent changes.",18,154,False,0,1,1
+"Comprehensive guide to microservices: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,148,False,0,2,1
+"Getting null pointer in Python, fix it",7,38,False,0,1,0
+"Looking for a post on serverless computing: explain the concept, provide example platforms, and discuss pros and cons.",18,118,False,0,1,1
+"Comprehensive guide to web security: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+"Comprehensive guide to message queues: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,149,False,0,2,1
+Need dynamic programming code asap!,5,35,False,0,1,0
+code not working,3,16,False,0,1,0
+Need bit manipulation code asap!,5,32,False,0,1,0
+"Comprehensive guide to tries: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,140,False,0,2,1
+Need database administration code asap!,5,39,False,0,1,0
+Need web security code asap!,5,28,False,0,1,0
+"Understanding test-driven development from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,182,False,0,2,1
+Help me with my authentication homework due tomorrow,8,52,False,0,1,0
+Help me with my responsive design homework due tomorrow,9,55,False,0,1,0
+"Understanding web accessibility from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Understanding automated testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,176,False,0,2,1
+"Understanding orchestration from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,172,False,0,2,1
+Help me with my integration testing homework due tomorrow,9,57,False,0,1,0
+"Code gives syntax error in SQL, urgent help needed!",9,51,False,0,1,0
+"Comprehensive guide to JavaScript: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,145,False,0,2,1
+"Comprehensive guide to IoT: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,138,False,0,2,1
+Help me with my data warehousing homework due tomorrow,9,54,False,0,1,0
+"I need a post that explains functional programming, gives code examples, and discusses immutability.",14,100,True,0,1,1
+Help with React compilation error???,5,36,False,3,2,0
+"Understanding progressive web apps from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",21,179,False,0,2,1
+Help me with my code refactoring homework due tomorrow,9,54,False,0,1,0
+"Understanding unit testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,171,False,0,2,1
+Help me with my SOLID principles homework due tomorrow,9,54,False,0,1,0
+"Comprehensive guide to unit testing: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+"Looking for a post on distributed systems: explain the basics, provide architecture examples, and discuss challenges.",16,117,False,0,1,1
+Need distributed systems code asap!,5,35,False,0,1,0
+Need microservices code asap!,4,29,False,0,1,0
+"Looking for a detailed explanation of binary numbers, including conversion examples and their role in computer science.",17,119,False,0,1,1
+Need load balancing code asap!,5,30,False,0,1,0
+Need concurrent programming code asap!,5,38,False,0,1,0
+"Seeking a post that explains binary numbers, demonstrates conversions, and discusses their significance in computer science.",16,124,False,0,1,1
+"Understanding end-to-end testing from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",20,177,False,0,2,1
+"I'm looking for a help post about APIs that emphasizes clarity and provides valid, illustrative examples.",16,105,False,0,1,1
+Understanding Dynamic Programming - Solve complex problems by breaking into simpler subproblems. Key steps: 1) Define subproblem 2) Create recurrence relation 3) Solve bottom-up or top-down. Here's a step-by-step explanation with practical examples.,33,249,False,0,3,1
+Help with Java syntax error???,5,30,False,3,2,0
+"I need a tutorial that explains recursion, shows simple code examples (like factorial), and discusses the importance of the base case.",21,134,False,0,1,1
+Need procedural programming code asap!,5,38,False,0,1,0
+"binary numbers work, provide examples of converting between binary and decimal, and discuss the importance of binary in computer science",20,136,False,0,1,1
+Help me with my linked lists homework due tomorrow,9,50,False,0,1,0
+I want a valid explanation about APIs but this post is not clear and has no examples.,17,85,False,0,1,0
+"Comprehensive guide to blockchain: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",19,145,False,0,2,1
+"Requesting an explanation of binary numbers, with worked examples of binary/decimal conversion and a discussion of their importance in CS.",20,138,False,0,1,1
+Need mobile performance code asap!,5,34,False,0,1,0
+Need tries code asap!,4,21,False,0,1,0
+Help me with my DevOps homework due tomorrow,8,44,False,0,1,0
+"Comprehensive guide to database administration: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,158,False,0,2,1
+"Comprehensive guide to procedural programming: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,157,False,0,2,1
+"Comprehensive guide to mobile UI/UX: Key concepts, implementation details, and best practices. Includes code examples and common pitfalls to avoid.",20,147,False,0,2,1
+"Understanding tries from the ground up: Core principles, practical applications, and optimization techniques. With detailed examples and performance considerations.",19,164,False,0,2,1
+

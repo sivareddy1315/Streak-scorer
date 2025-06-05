@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+**/venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+*.DS_Store
+*.suo
+*.user
+*.sln.docstates
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+*.log
+tests/. H2CScoverage.*
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Data files that are only for local training/testing, not needed in the final image
+# If you want your CSV in the image (e.g., for some runtime access, though unlikely for this project), remove it from here.
+# data/help_post_training_data.csv
+
+# Other temporary files or build artifacts
+dist/
+build/
+*.egg-info/
