@@ -6,7 +6,7 @@ A FastAPI-based microservice that tracks and validates user engagement streaks a
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/sivareddy1315/Streak-scorer.git
 cd streak_service_project
 
 # Set up virtual environment
