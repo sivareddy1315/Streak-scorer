@@ -3,7 +3,6 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import HTMLResponse
 from contextlib import asynccontextmanager 
 
-# Configure logging ONCE, at the very top.
 logging.basicConfig(
     level=logging.INFO, 
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -13,24 +12,18 @@ logger = logging.getLogger(__name__)
 try:
     from app.core.config import AppConfig
     from app.models.streaks_models import StreakUpdateRequest, StreakUpdateResponse 
-    from app.services.streak_logic import StreakCalculatorService
+    from app.services.streak_logic import StreakCalculatorService # Assumes this expects uid, event_dt_utc, actions_load
     from app.ai.validator import ContentValidator
 except ImportError as e:
     logger.error(f"CRITICAL IMPORT ERROR in main.py: {e}. Check PYTHONPATH and file structure.", exc_info=True)
     raise 
 
-# --- Global State / Services ---
-# streak_service_instance will be initialized by the lifespan manager and stored in app.state
-# No direct global assignment here.
-
-# --- Lifespan Manager for Startup and Shutdown ---
 @asynccontextmanager
 async def lifespan(app_instance: FastAPI): 
     logger.info("Application startup sequence initiated (lifespan)...")
     try:
         AppConfig.load_config() 
         logger.info(f"Configuration loaded/verified during startup. Service version: {AppConfig.get('service_version')}")
-
         help_post_config = AppConfig.get("activity_types.help_post", {})
         if help_post_config.get("enabled") and \
            help_post_config.get("validators", {}).get("ai_validation_enabled"):
@@ -39,8 +32,6 @@ async def lifespan(app_instance: FastAPI):
             logger.info("AI Model for help_post loaded successfully.")
         else:
             logger.info("AI model for help_post is not configured or not enabled for AI validation in config.")
-        
-        # Store the instance on the app's state
         app_instance.state.streak_service = StreakCalculatorService() 
         logger.info("StreakCalculatorService initialized and stored in app.state.streak_service.")
         logger.info("Application startup complete (lifespan).")
@@ -50,15 +41,11 @@ async def lifespan(app_instance: FastAPI):
     except Exception as e:
         logger.error(f"CRITICAL STARTUP ERROR (lifespan): {e}", exc_info=True)
         raise RuntimeError(f"General startup failure (lifespan): {e}") from e
-    
     yield 
-
     logger.info("Application shutdown sequence initiated (lifespan)...")
-    if hasattr(app_instance.state, 'streak_service'): # Clean up state if needed
-        del app_instance.state.streak_service
+    if hasattr(app_instance.state, 'streak_service'): del app_instance.state.streak_service
     logger.info("Application shutdown complete (lifespan).")
 
-# --- FastAPI App Instance ---
 try:
     if not AppConfig._loaded: AppConfig.load_config()
     SERVICE_VERSION_FOR_APP_DEF = AppConfig.get("service_version", "0.0.0-config-error")
@@ -77,7 +64,6 @@ app = FastAPI(
     lifespan=lifespan 
 )
 
-# --- Root Endpoint ---
 @app.get("/", tags=["General"], response_class=HTMLResponse)
 async def read_root_html():
     logger.info("--- ENTERING read_root_html ---")
@@ -97,10 +83,8 @@ async def read_root_html():
         logger.error(f"--- ERROR in read_root_html: {e} ---", exc_info=True)
         raise HTTPException(status_code=500, detail=f"Error generating root page: {str(e)}")
 
-# --- Streaks Update Endpoint ---
 @app.post("/streaks/update", response_model=StreakUpdateResponse, tags=["Streaks"])
-async def update_user_streaks_endpoint(request_payload: StreakUpdateRequest, http_request: Request): # http_request to access app.state
-    # Access the service instance from app.state
+async def update_user_streaks_endpoint(request_payload: StreakUpdateRequest, http_request: Request): 
     if not hasattr(http_request.app.state, 'streak_service'):
         logger.error("CRITICAL: streak_service not found in app.state. Lifespan startup might have failed.")
         raise HTTPException(status_code=503, detail="Service core component not initialized.")
@@ -114,24 +98,25 @@ async def update_user_streaks_endpoint(request_payload: StreakUpdateRequest, htt
         logger.info(f"Processing /streaks/update for user_id: {request_payload.user_id}")
         actions_list_of_dicts = [action.model_dump() for action in request_payload.actions]
         
+        # +++ THIS IS THE CORRECTED CALL +++
         streaks_summary = streak_service.process_user_actions(
-            user_id=request_payload.user_id,
-            event_datetime_utc=request_payload.date_utc,
-            actions_payload=actions_list_of_dicts
+            uid=request_payload.user_id,                 # Changed to 'uid'
+            event_dt_utc=request_payload.date_utc,      # Changed to 'event_dt_utc'
+            actions_load=actions_list_of_dicts      # Changed to 'actions_load'
         )
+        # +++++++++++++++++++++++++++++++++++++
+        
         logger.info(f"Successfully processed /streaks/update for user_id: {request_payload.user_id}")
         return StreakUpdateResponse(user_id=request_payload.user_id, streaks=streaks_summary)
     except Exception as e:
         logger.error(f"Error during /streaks/update for user {request_payload.user_id}: {e}", exc_info=True)
         raise HTTPException(status_code=500, detail="Internal server error during streak update.")
 
-# --- Health Check Endpoint ---
 @app.get("/health", tags=["Status"])
 async def health_check_endpoint():
     logger.debug("Health check called.")
     return {"status": "ok"}
 
-# --- Version Endpoint ---
 @app.get("/version", tags=["Status"])
 async def get_version_info_endpoint():
     logger.debug("Version endpoint called.")
