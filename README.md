@@ -213,6 +213,4 @@ This project was developed with the assistance of modern AI-powered tools to acc
 - **Cursor:** Used as the primary AI-first code editor for code generation, refactoring, and debugging.
 - **Google AI Studio:** Utilized for high-level conceptual brainstorming, structuring documentation, and generating the project report.
 
-## 📄 License
 
-[Your License Here]
