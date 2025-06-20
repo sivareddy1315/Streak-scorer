@@ -68,6 +68,9 @@ streak_service_project/
 
 The service is configured via `config.json`. Key configuration options:
 
+> **Note:**
+> All pretrained model and vectorizer `.pkl` files must be present in the `data/trained_models/` directory for the service to function correctly. Ensure these files are included when building or deploying the Docker image.
+
 ```json
 {
   "service_version": "1.0.0",
@@ -202,6 +205,13 @@ pytest -v
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+## ✨ Acknowledgements
+
+This project was developed with the assistance of modern AI-powered tools to accelerate development and improve code quality.
+
+- **Cursor:** Used as the primary AI-first code editor for code generation, refactoring, and debugging.
+- **Google AI Studio:** Utilized for high-level conceptual brainstorming, structuring documentation, and generating the project report.
 
 ## 📄 License
 
