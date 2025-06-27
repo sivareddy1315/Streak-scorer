@@ -1,3 +1,4 @@
+# This program was developed with help from Cursor AI and Google AI Studio.
 import logging
 from fastapi import FastAPI, HTTPException, Request 
 from fastapi.responses import HTMLResponse
